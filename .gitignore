@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CSharpBasics/CSharpBasics/.vs/CSharpBasics/v16
+/CSharpBasics/CSharpBasics/BDDKIT.BIZ/obj/Debug/netcoreapp3.1
+/CSharpBasics/CSharpBasics/BDDKIT.BIZ/obj
+/.vs
+/CSharpBasics/.vs/CSharpBasics
+/CSharpBasics/BDDKIT.BIZ/bin/Debug/netcoreapp3.1
+/CSharpBasics/BDDKIT.BIZ/obj
+/CSharpBasics/BDDKIT.SERVICE/bin/Debug/netcoreapp3.1
+/CSharpBasics/BDDKIT.SERVICE/obj

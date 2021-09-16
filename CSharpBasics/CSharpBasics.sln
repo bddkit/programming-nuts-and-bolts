@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDKIT.BIZ", "BDDKIT.BIZ\BDDKIT.BIZ.csproj", "{25161921-7CB2-4C75-9685-5090725EECF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDDKIT.SERVICE", "BDDKIT.SERVICE\BDDKIT.SERVICE.csproj", "{513AEF11-D21C-4F51-A39E-6D5D1605149E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25161921-7CB2-4C75-9685-5090725EECF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25161921-7CB2-4C75-9685-5090725EECF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25161921-7CB2-4C75-9685-5090725EECF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25161921-7CB2-4C75-9685-5090725EECF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513AEF11-D21C-4F51-A39E-6D5D1605149E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513AEF11-D21C-4F51-A39E-6D5D1605149E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513AEF11-D21C-4F51-A39E-6D5D1605149E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513AEF11-D21C-4F51-A39E-6D5D1605149E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D674DB4C-A5D4-4B15-A947-50B6B337E079}
+	EndGlobalSection
+EndGlobal
