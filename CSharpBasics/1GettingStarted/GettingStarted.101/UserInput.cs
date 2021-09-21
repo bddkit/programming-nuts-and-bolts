@@ -10,7 +10,7 @@ namespace GettingStarted.OneZeroOne
 		public static void ReadInput()
 		{
 			// Type your username and press enter
-			Console.WriteLine("Enter username:");
+			Console.WriteLine("Enter username: \n");
 
 			// Create a string variable and get user input from the keyboard and store it in the variable
 			string userName = Console.ReadLine();
@@ -19,7 +19,7 @@ namespace GettingStarted.OneZeroOne
 			Console.WriteLine("Username is: " + userName);
 
 			//For integer we need to type cast
-			Console.WriteLine("Enter your age:");
+			Console.WriteLine("Enter your age: \n");
 			int age = Convert.ToInt32(Console.ReadLine());
 			Console.WriteLine("Your age is: " + age);
 		}

@@ -19,7 +19,7 @@ namespace GettingStarted.OneZeroOne
 			 */
 
 			//Printing single line comment
-			Console.WriteLine("@//This is single line comment");
+			Console.WriteLine("@//This is single line comment\n");
 			
 			//printing multi line comment
 			Console.WriteLine(@"/* 
