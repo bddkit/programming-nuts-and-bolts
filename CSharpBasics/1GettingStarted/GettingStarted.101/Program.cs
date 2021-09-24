@@ -42,6 +42,11 @@ namespace GettingStarted.OneZeroOne //used to organize your code, and it is a co
 			Console.WriteLine("***** Math class in C# *****\n");
 			Maths.MathmaticalTasks();
 			Console.WriteLine("****************************\n");
+
+			Console.WriteLine("***** Play with string in C# *****\n");
+			Strings.SimpleString();
+			Strings.StringMethods();
+			Console.WriteLine("****************************\n");
 		}
 	}
 
