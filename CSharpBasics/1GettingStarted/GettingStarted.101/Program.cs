@@ -18,7 +18,7 @@ namespace GettingStarted.OneZeroOne //used to organize your code, and it is a co
 
 			Console.WriteLine("***** Making comment in C# *****\n");
 			CommentInCode.PrintTypesOfCommentsInCode(); //way of making comment in code
-			Console.WriteLine("****************************\n");
+			Console.WriteLine("********************************\n");
 
 			Console.WriteLine("***** Type casting in C# *****\n");
 			TypeCasting.ImplicitTypeCasting(); //implicit type casting
@@ -37,7 +37,7 @@ namespace GettingStarted.OneZeroOne //used to organize your code, and it is a co
 			Operators.ComparisonOperators();
 			Operators.LogicalOperators();
 			Operators.BitwiseComplementOperator();
-			Console.WriteLine("***************************\n");
+			Console.WriteLine("****************************\n");
 
 			Console.WriteLine("***** Math class in C# *****\n");
 			Maths.MathmaticalTasks();
@@ -46,6 +46,16 @@ namespace GettingStarted.OneZeroOne //used to organize your code, and it is a co
 			Console.WriteLine("***** Play with string in C# *****\n");
 			Strings.SimpleString();
 			Strings.StringMethods();
+			Strings.SpecialCharacters();
+			Console.WriteLine("**********************************\n");
+
+			Console.WriteLine("***** Booleans in C# *****\n");
+			Booleans.Values();
+			Booleans.Expression();
+			Console.WriteLine("**************************\n");
+
+			Console.WriteLine("***** Conditions in C# *****\n");
+			Conditions.Learn();
 			Console.WriteLine("****************************\n");
 		}
 	}
