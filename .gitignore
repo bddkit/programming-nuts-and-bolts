@@ -5,3 +5,5 @@
 /.vs
 /CSharp/.vs/Fundamentals
 /CSharp/GettingStarted.101/obj
+/CSharp/GettingStarted.101/.vs
+/CSharp/GettingStarted.101/bin/Debug/netcoreapp3.1
